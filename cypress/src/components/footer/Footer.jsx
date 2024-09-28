@@ -17,7 +17,7 @@ const Footer = () => {
       <img
         src={designSvg}
         alt="design"
-        style={{ width: "40px", margin: "0  25px 0 10px" }}
+        style={{ width: "40px", margin: "0  26px 0 10px" }}
       />
       <span
         >Copyright {new Date().getFullYear()}
